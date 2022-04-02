@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Islamic Ringtones</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="set_as_ringtone">Set as Ringtone</string>
+    <string name="set_as_alarm">Set as Alarm Tone</string>
+    <string name="set_as_notification">Set as Notification Tone</string>
+    <string name="set_as">Set as</string>
+    <string name="save">Save to External Storage</string>
+    <string name="share">Share Ringtone</string>
+    <string name="ad">Ad</string>
+    <string name="start">Start</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="in_app_snack_bar_message">Update almost finished!</string>
+    <string name="in_app_snack_bar_action_title">RESTART</string>
+
+    <!--- TESTING ADS IDS-->
+<!--    <string name="admob_interstitial">ca-app-pub-3940256099942544/1033173712</string>-->
+<!--    <string name="admob_native">ca-app-pub-3940256099942544/2247696110</string>-->
+<!--    <string name="admob_open">ca-app-pub-3940256099942544/3419835294</string>-->
+<!--    <string name="admob_native_banner">ca-app-pub-3940256099942544/6300978111</string>-->
+
+        <string name="admob_interstitial">ca-app-pub-3784717186068608/2791896943</string>
+        <string name="admob_native">ca-app-pub-3784717186068608/1478815270</string>
+        <string name="admob_open">ca-app-pub-3784717186068608/6539570265</string>
+        <string name="admob_native_banner">ca-app-pub-3784717186068608/6731141951</string>
+
+    <string name="max_interstitial">56ab5c242ad78915</string>
+    <string name="max_native_small">a7d557dde60002b1</string>
+    <string name="max_banner">5fab8e131032bdaf</string>
+
+</resources>

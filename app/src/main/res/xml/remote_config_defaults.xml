@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap>
+    <entry>
+        <key>admob_interstital</key>
+        <value>Fetching config…</value>
+    </entry>
+    <entry>
+        <key>admob_native_large</key>
+        <value>false</value>
+    </entry>
+    <entry>
+        <key>admob_native_banner</key>
+        <value>Welcome to my awesome app!</value>
+    </entry>
+</defaultsMap>
